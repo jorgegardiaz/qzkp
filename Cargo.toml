@@ -1,7 +1,7 @@
 [package]
 name = "qzkp"
 version = "0.0.0"
-edition = "2025"
+edition = "2024"
 keywords = ["work-in-progress", "QZKP"]
 description = "This project explores a **Zero Knowledge Proof (ZKP)** approach within the quantum paradigm (QZKP, Quantum Zero Knowledge Proof). It leverages quantum states to prove the possession of certain information (like a secret bitstring and the basis in which it was encoded) without revealing the actual secret to the verifier."
 repostory = "https://github.com/jorgegardiaz/qzkp"
